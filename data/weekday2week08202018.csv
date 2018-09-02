@@ -1,0 +1,48 @@
+Work,Prepare to sleep,Relax,Waste time,VC,Relax,Waste time,Relax,Waste time,Relax
+Work,Prepare to sleep,Relax,Waste time,Relax,Relax,Errand,Waste time,Waste time,Relax
+Work,Sleep,Relax,Waste time,Sleep,Sleep,Errand,Errand,Waste time,Waste time
+Sleep,Sleep,Sleep,Sleep,Sleep,Sleep,Errand,Errand,Errand,Waste time
+Sleep,Sleep,Sleep,Sleep,Sleep,Sleep,Sleep,Sleep,Sleep,Sleep
+Sleep,Sleep,Sleep,Sleep,Sleep,Sleep,Sleep,Sleep,Sleep,Sleep
+Sleep,Sleep,Sleep,Sleep,Sleep,Sleep,Sleep,Sleep,Sleep,Sleep
+Sleep,Sleep,Sleep,Sleep,Sleep,Sleep,Sleep,Sleep,Sleep,Sleep
+Sleep,Sleep,Sleep,Sleep,Sleep,Sleep,Sleep,Sleep,Sleep,Sleep
+Sleep,Sleep,Sleep,Sleep,Sleep,Sleep,Sleep,Sleep,Sleep,Sleep
+Sleep,Sleep,Sleep,Sleep,Sleep,Sleep,Sleep,Sleep,Sleep,Sleep
+Sleep,Sleep,Sleep,Sleep,Sleep,Sleep,Sleep,Sleep,Sleep,Sleep
+Sleep,Sleep,Sleep,Sleep,Sleep,Sleep,Sleep,Sleep,Sleep,Sleep
+Sleep,Sleep,Sleep,Sleep,Sleep,Sleep,Sleep,Sleep,Sleep,Sleep
+Sleep,Sleep,Sleep,Sleep,Sleep,Sleep,Sleep,Sleep,Sleep,Sleep
+Sleep,Sleep,Sleep,Sleep,Sleep,Sleep,Sleep,Sleep,Sleep,Sleep
+Sleep,Sleep,Sleep,Sleep,Sleep,Sleep,Sleep,Sleep,Sleep,Sleep
+Morning routine,Morning routine,Sleep,Sleep,Sleep,Sleep,Sleep,Sleep,Sleep,Sleep
+Morning routine,Errand,Sleep,Sleep,Sleep,Morning routine,Sleep,Sleep,Sleep,Sleep
+Morning routine,Work,Morning routine,Morning routine,Wake,Morning routine,Sleep,Sleep,Sleep,Sleep
+Morning routine,Work,Morning routine,Morning routine,Errand,Work,Sleep,Morning routine,Sleep,Sleep
+Work,Work,Work,Work,Errand,Work,Morning routine,Morning routine,Morning routine,Morning routine
+Work,Work,Work,Work,Errand,Work,Morning routine,Work,Morning routine,Morning routine
+Work,Work,Work,Work,Work,Work,Work,Work,Work,Work
+Work,Work,Work,Work,Work,Work,Eat,Work,Work,Work
+Work,Work,Eat,Work,Work,Work,Work,Eat,Work,Work
+Work,Eat,Eat,Eat,Work,Work,Work,Work,Work,Work
+Work,Eat,Work,Work,Relax,Work,Work,Work,Work,Work
+Eat,Relax,Work,Work,Errand,Work,Work,Work,Eat,Eat
+Work,Work,Work,Work,Errand,Work,Work,Work,Work,Work
+Work,Work,Work,Work,Work,Work,Work,Work,Work,Work
+Work,Work,Work,Work,Work,Work,Work,Work,Work,Work
+Work,Work,Work,Work,Work,Work,Work,Work,Work,Work
+Work,Work,Gym,Work,Work,Work,Work,Work,Work,Work
+Work,Relax,Gym,Work,Work,Work,Work,Work,Work,Work
+Work,Relax,Gym,Relax,Work,Work,Work,Work,Work,Work
+Work,Work,Gym,Work,Work,Work,Relax,Work,Work,Work
+Work,Work,Gym,Work,Relax,Work,Relax,Work,Work,Work
+Work,Eat,Gym,Work,Work,Gym,Work,Work,Work,Work
+Eat,Work,Eat,Eat,Work,Gym,Work,Gym,Work,Relax
+VC,Gym,Eat,Eat,Relax,Relax,Work,Gym,Gym,Relax
+Errand,Gym,Work,Relax,Relax,Eat,Work,Gym,Gym,Relax
+Errand,VC,Work,Work,Relax,VC,Work,Gym,Work,Relax
+Errand,VC,Work,Work,Relax,Work,Work,Work,Work,Waste time
+Errand,Work,Work,Home,Relax,Work,Relax,Work,Work,Waste time
+Errand,Work,Relax,Relax,Relax,Relax,Relax,Relax,Work,Waste time
+Relax,Relax,Relax,Relax,Relax,Eat,Vc,Relax,Work,Waste time
+Relax,Relax,Relax,VC,Relax,Waste time,Vc,Waste time,Relax,Waste time
